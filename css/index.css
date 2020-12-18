@@ -753,7 +753,8 @@ a:hover {
     width: 207px;
     height: 72px;
     margin-left: 65px;
-    padding: 25px auto;
+    padding: 24px 46px;
+
     background-color: transparent;
     border: 3px solid white;
     border-radius: 60px;
