@@ -717,9 +717,30 @@ body {
 }
 
 .cta-title {
+    max-width: 855px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
     line-height: 52px;
+    color: white;
+}
+
+.cta-btn {
+    width: 207px;
+    height: 72px;
+    margin-left: 65px;
+    padding: auto;
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 60px;
+    
+    text-decoration: none !important;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: white;
 }
