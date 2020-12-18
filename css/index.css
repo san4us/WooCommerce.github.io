@@ -692,3 +692,19 @@ body {
 .people-img {
     width: 1325px;
 }
+
+/* cts-section */
+
+.cta-section {
+    width: 100%;
+    height: 282px;
+    background: url(/img/cta-bg.svg);
+    background-repeat: no-repeat;
+}
+
+.cta-card {
+    margin: 78px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
