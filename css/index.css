@@ -14,6 +14,7 @@ body {
     margin: 0;
     padding: 0;
     border: none;
+    /* background-color: #fff; */
     border-radius: 10px;
     text-decoration: none;
     outline: none !important;
@@ -46,6 +47,14 @@ body {
     width: 350px;
     max-height: 600px;
     z-index: 99999;
+}
+
+.modal .modal_content h3 {
+    font-family: 'Circular Std', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 70px;
 }
 
 .modal .modal_content .redirect_modal_window {

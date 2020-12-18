@@ -1,7 +1,7 @@
 let logIn = document.querySelector('.logIn');
 
 let modal = document.getElementById("my_modal");
-let moDal = document.getElementById("my_modal_1");
+
 let btn = document.getElementById("btn_modal_window");
 let subBtn = document.getElementsByClassName("redirect_modal_window")[0];
 let closeBtn = document.getElementsByClassName("close_modal_window")[0];
@@ -12,12 +12,12 @@ btn.onclick = function () {
 
 subBtn.onclick = function () {
     modal.style.display = "none";
-    moDal.style.display = "block";
+
 }
 
 closeBtn.onclick = function () {
     modal.style.display = "none";
-    moDal.style.display = "none";
+
 }
 
 window.onclick = function (event) {
