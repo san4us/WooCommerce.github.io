@@ -317,7 +317,7 @@ body {
     height: 140px;
     margin: 0 572px;
     text-align: center;
-    font-family: 'Circular Std', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 55px;
@@ -338,7 +338,7 @@ body {
 .feature-card-title {
     margin: 0;
     text-align: center;
-    font-family: 'Circular Std', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -538,7 +538,7 @@ body {
 
 .info-title {
     margin: 0;
-    font-family: 'Circular Std', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -611,7 +611,7 @@ body {
     max-width: 566px;
     height: 198px;
 
-    font-family: 'Circular Std', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 26.7px;
@@ -680,7 +680,7 @@ body {
 
 .people-title {
     margin-bottom: 30px;
-    font-family: 'Circular Std', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 55px;
